@@ -1,0 +1,17 @@
+registrySize,op,position,gasUsed
+10,verify,first#108,373017
+10,revoke,fresh,33981
+10,dispute,fresh,372996
+50,verify,first#108,373030
+50,revoke,fresh,33981
+50,dispute,fresh,373008
+100,verify,first#108,373017
+100,revoke,fresh,33981
+100,dispute,fresh,373008
+500,verify,first#108,373005
+500,revoke,fresh,33993
+500,dispute,fresh,373008
+1000,verify,first#108,373017
+1000,verify,mid#610,373042
+1000,revoke,fresh,33993
+1000,dispute,fresh,373008

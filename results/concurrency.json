@@ -1,0 +1,39 @@
+{
+  "cpu": "11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz",
+  "cores": 8,
+  "totalProofs": 32,
+  "rows": [
+    {
+      "workers": 1,
+      "wallMs": 70962,
+      "throughput": 0.45094557650573547,
+      "meanProofMs": 675.75,
+      "count": 32,
+      "speedup": 1
+    },
+    {
+      "workers": 2,
+      "wallMs": 32042,
+      "throughput": 0.9986892203982273,
+      "meanProofMs": 662.3125,
+      "count": 32,
+      "speedup": 2.214655764309344
+    },
+    {
+      "workers": 4,
+      "wallMs": 30886,
+      "throughput": 1.0360681214789873,
+      "meanProofMs": 1423.53125,
+      "count": 32,
+      "speedup": 2.297545813637247
+    },
+    {
+      "workers": 8,
+      "wallMs": 36468,
+      "throughput": 0.8774816277284194,
+      "meanProofMs": 4898.75,
+      "count": 32,
+      "speedup": 1.945870352089503
+    }
+  ]
+}

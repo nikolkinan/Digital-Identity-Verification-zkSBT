@@ -1,0 +1,102 @@
+{
+  "baseMinted": 1000,
+  "extraMinted": 5,
+  "rows": [
+    {
+      "registrySize": 10,
+      "op": "verify",
+      "position": "first#108",
+      "gas": 373017
+    },
+    {
+      "registrySize": 10,
+      "op": "revoke",
+      "position": "fresh",
+      "gas": 33981
+    },
+    {
+      "registrySize": 10,
+      "op": "dispute",
+      "position": "fresh",
+      "gas": 372996
+    },
+    {
+      "registrySize": 50,
+      "op": "verify",
+      "position": "first#108",
+      "gas": 373030
+    },
+    {
+      "registrySize": 50,
+      "op": "revoke",
+      "position": "fresh",
+      "gas": 33981
+    },
+    {
+      "registrySize": 50,
+      "op": "dispute",
+      "position": "fresh",
+      "gas": 373008
+    },
+    {
+      "registrySize": 100,
+      "op": "verify",
+      "position": "first#108",
+      "gas": 373017
+    },
+    {
+      "registrySize": 100,
+      "op": "revoke",
+      "position": "fresh",
+      "gas": 33981
+    },
+    {
+      "registrySize": 100,
+      "op": "dispute",
+      "position": "fresh",
+      "gas": 373008
+    },
+    {
+      "registrySize": 500,
+      "op": "verify",
+      "position": "first#108",
+      "gas": 373005
+    },
+    {
+      "registrySize": 500,
+      "op": "revoke",
+      "position": "fresh",
+      "gas": 33993
+    },
+    {
+      "registrySize": 500,
+      "op": "dispute",
+      "position": "fresh",
+      "gas": 373008
+    },
+    {
+      "registrySize": 1000,
+      "op": "verify",
+      "position": "first#108",
+      "gas": 373017
+    },
+    {
+      "registrySize": 1000,
+      "op": "verify",
+      "position": "mid#610",
+      "gas": 373042
+    },
+    {
+      "registrySize": 1000,
+      "op": "revoke",
+      "position": "fresh",
+      "gas": 33993
+    },
+    {
+      "registrySize": 1000,
+      "op": "dispute",
+      "position": "fresh",
+      "gas": 373008
+    }
+  ]
+}

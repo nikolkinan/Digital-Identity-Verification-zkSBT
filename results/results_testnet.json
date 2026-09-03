@@ -1,0 +1,50 @@
+{
+  "table3": {
+    "mint": 209093,
+    "requestRevoke": 33861,
+    "disputeRevocation": 372996,
+    "resolveDispute": 66394
+  },
+  "rejection": {
+    "status": 32890,
+    "invalid_proof": null
+  },
+  "verify_summary": {
+    "proofGen_full": {
+      "n": 100,
+      "mean": 357.91,
+      "sd": 47.1063,
+      "min": 312,
+      "max": 509
+    },
+    "proofGen_warm": {
+      "n": 99,
+      "mean": 358.1616,
+      "sd": 47.2767,
+      "min": 312,
+      "max": 509
+    },
+    "proofGen_warm_ci95": [
+      348.8,
+      367.52
+    ],
+    "gas": {
+      "n": 100,
+      "mean": 373014.33,
+      "sd": 14.0855,
+      "min": 372981,
+      "max": 373030
+    },
+    "latency": {
+      "n": 100,
+      "mean": 1982.04,
+      "sd": 468.3158,
+      "min": 1294,
+      "max": 2836
+    },
+    "latency_ci95": [
+      1889.79,
+      2074.29
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mint": 193145,
+  "verify": 250322,
+  "requestRevoke": 31449,
+  "disputeRevocation": 248632,
+  "resolveDispute": 53794,
+  "requestRevoke_panel": 54944,
+  "finalizeRevocation": 28952,
+  "revokeAndReissue": 168981,
+  "recoverCredential": 203059
+}
