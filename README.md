@@ -44,7 +44,7 @@ git clone https://github.com/nikolkinan/Digital-Identity-Verification-zkSBT
 ```
 #### *Goto folder directory*
 ```bash
-cd zkSBT
+cd Digital-Identity-Verification-zkSBT
 ```
 
 #### *Install the project using*
