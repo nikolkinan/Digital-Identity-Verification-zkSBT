@@ -40,7 +40,7 @@ results/                     Measurement outputs (CSV/JSON) reported in the pape
 #### *Clone this repository*
 
 ```bash
-git clone https://github.com/nikolkinan/zkSBT
+git clone https://github.com/nikolkinan/Digital-Identity-Verification-zkSBT
 ```
 #### *Goto folder directory*
 ```bash
