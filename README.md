@@ -42,7 +42,7 @@ results/                     Measurement outputs (CSV/JSON) reported in the pape
 ```bash
 git clone https://github.com/nikolkinan/Digital-Identity-Verification-zkSBT
 ```
-#### *Goto folder directory*
+#### *Go to folder directory*
 ```bash
 cd Digital-Identity-Verification-zkSBT
 ```
